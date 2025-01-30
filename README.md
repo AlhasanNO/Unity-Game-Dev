@@ -1,6 +1,6 @@
 # Unity Game Development Training Assignments
 
-Welcome to my Unity Game Development Assignment repository! This repository contains all the assignments I've worked on during my Unity game development training. It serves as a collection of my progress, experiments, and learning journey in Unity.
+This repository contains all the assignments I've worked on during my Unity game development training. It serves as a collection of my progress, experiments, and learning journey in Unity.
 
 ## 📁 Repository Overview
 
